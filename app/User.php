@@ -8,6 +8,19 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 
 class User extends Authenticatable
 {
+
+
+    public function role(){
+        return  $this->belongsTo('App\Role');
+
+
+    }
+
+
+
+
+
+
     use Notifiable;
 
     /**
@@ -36,4 +49,6 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+
 }
