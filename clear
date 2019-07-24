@@ -1,0 +1,35 @@
+[33mcommit b9538a996e9e127723d95b2cc7e03b0f5e967893[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: abdallah <abdallah.salah9700@gmail.com>
+Date:   Mon Jul 22 23:37:12 2019 +0200
+
+    users section works 100% exept security
+
+[33mcommit 08198fb44f36119b62f86314c6d48b0e23e7ed8f[m
+Author: abdallah <abdallah.salah9700@gmail.com>
+Date:   Mon Jul 22 19:55:46 2019 +0200
+
+    user with uploading feature working
+
+[33mcommit 7f9e2fce7ae36b439d04c8285664512602b36614[m
+Author: abdallah <abdallah.salah9700@gmail.com>
+Date:   Mon Jul 22 15:00:42 2019 +0200
+
+    users page work without photo
+
+[33mcommit 55c7b09f664e33cb71a095f9466877e17333401c[m
+Author: abdallah <abdallah.salah9700@gmail.com>
+Date:   Sun Jul 21 14:49:54 2019 +0200
+
+    admin master page setup
+
+[33mcommit 184a6a94bda858b61340bcf2d8cce335605d9c9b[m
+Author: abdallah <abdallah.salah9700@gmail.com>
+Date:   Sat Jul 20 22:11:48 2019 +0200
+
+    new files is added 2
+
+[33mcommit c683182c2785d54107258478e445555b3363c4a7[m
+Author: abdallah <abdallah.salah9700@gmail.com>
+Date:   Fri Jul 19 20:24:37 2019 +0200
+
+     admin views created

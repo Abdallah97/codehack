@@ -2,9 +2,13 @@
 
 @section('content')
 
+
+    @if(Session::has('deleted_users'))
+
+        <h3 class="bg-light-blue">{{session('deleted_users')}}</h3>
+    @endif
+
     <h1>Users</h1>
-
-
     <table class="table table-hover" >
         <thead>
           <tr>
